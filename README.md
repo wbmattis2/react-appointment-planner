@@ -12,7 +12,7 @@ The app notifies users when they have entered a name that has already been saved
 
 ##How to Use
 
-First, download the contents of the repository and store those contents in a folder. Ensure you have (installed Node Package Manager)[https://www.codecademy.com/article/setting-up-node-locally], then navigate to the folder containing the project using your command line interface. Enter the command `npm install` and wait for the package manager to finish executing that command. Finally, enter the command `npm start`. The app should open in a new browser tab or window. 
+First, download the contents of the repository and store those contents in a folder. Ensure you have (installed Node Package Manager)[https://www.codecademy.com/article/setting-up-node-locally], then navigate to the folder containing the project using your command line interface. Enter the command `npm install` and wait for the package manager to finish executing that command. Finally, enter the command `npm start`. The app should open in a new browser tab or window. If the app does not open automatically, try using your web browser to navigate to http://localhost:3000.
 
 ##Technologies
 
